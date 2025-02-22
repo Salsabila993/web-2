@@ -1,0 +1,11 @@
+1.Document Root adalah lokasi folder dimana file website dari sebuah situs disimpan.
+2.Tidak, dokumen root pada Apache web server tidak harus terletak di dalam direktori C:\xampp\htdocs.karena dokumen root Apache bisa berada di direktori mana saja, asalkan pengaturan di file konfigurasi Apache sudah diubah sesuai dengan lokasi tersebut.
+3.git init adalah Perintah yang digunakan untuk membuat repositori Git baru di dalam sebuah direktori
+git clone adalah  Perintah yang digunakan untuk menduplikasi sebuah repositori Git yang sudah ada dari server (misalnya GitHub) ke komputer lokal.
+git remote adalah perintah yang digunakan untuk mengelola remote repositories (repositori jarak jauh), seperti GitHub atau GitLab.
+git add adalah perintah yang digunakan untuk menambahkan file atau perubahan yang sudah dilakukan ke staging area. 
+git commit adalah perintah yang  digunakan untuk menyimpan snapshot perubahan yang ada di staging area ke repositori Git.
+git push adalah perintah yang digunakan untuk mengirimkan commit yang ada di repositori lokal ke repositori remote (misalnya di GitHub, GitLab, atau Bitbucket).
+git checkout adalah perintah  digunakan untuk berpindah antar branch atau mengembalikan file ke keadaan sebelumnya.
+4.GitHub lebih cocok untuk proyek open-source dan komunitas besar, dengan antarmuka pengguna yang sederhana dan mudah digunakan, serta lebih berfokus pada kolaborasi kode.
+GitLab menawarkan fitur yang lebih lengkap untuk DevOps dan CI/CD, serta lebih fleksibel untuk hosting mandiri (self-hosted) dan kontrol lebih besar atas privasi dan infrastruktur.
